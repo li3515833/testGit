@@ -1,1 +1,3 @@
 test git multi people
+
+test add data from ljt10lyx
